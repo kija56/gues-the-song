@@ -1,0 +1,15 @@
+{
+  "name": "songgani",
+  "version": "1.0.0",
+  "main": "creator/index.js",
+  "repository": "https://github.com/kija56/gues-the-song",
+  "author": "Kija Mabula",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node generate",
+    "serve": "npx serve"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
